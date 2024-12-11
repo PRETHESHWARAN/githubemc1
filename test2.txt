@@ -1,0 +1,2 @@
+
+adding the test2 file from local folder and pusing into the git hub repository
